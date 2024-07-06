@@ -1,0 +1,19 @@
+.navbar-brand,
+.nav-link,
+.navbar-toggler-icon {
+  color: white ; /* Change to your desired color */
+}
+
+.nav-link:hover,
+.navbar-brand:hover {
+  color: lightgray ; /* Change hover color if needed */
+}
+
+.dropdown-menu .dropdown-item {
+  color: black ; /* Dropdown items color */
+}
+
+.dropdown-menu .dropdown-item:hover {
+  color: white ; /* Dropdown items hover color */
+  background-color: black ; /* Change dropdown hover background color if needed */
+}

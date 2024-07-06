@@ -1,0 +1,52 @@
+/* Existing styles */
+h2 {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.vowel {
+    border: 3px solid #0dcaf0;
+    padding-bottom: 7px;
+    border-radius: 10px;
+    width: 18%;
+    text-align: center;
+    margin: 0 auto; /* Center the input */
+}
+
+.form-control {
+    margin-bottom: 20px;
+    border: 1px solid #0dcaf0;
+    border-radius: 10px;
+    width: 90%;
+}
+
+.btn {
+    width: 24%;
+    text-align: center;
+    font-size: 14px;
+}
+
+h3 {
+    margin-top: 25px;
+    text-align: center;
+}
+
+p {
+    margin-left: 10px;
+    text-align: center;
+}
+
+.form-floating {
+    display: flex;
+    justify-content: center;
+    width: 100%; /* Ensure it takes full width */
+}
+
+.center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+
+}
